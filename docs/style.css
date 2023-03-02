@@ -16,7 +16,7 @@
 @media(max-width: 500px) {
     .wrapper-bg{
         background-position-y: top;
-        margin-top: 100px;
+        margin-top: 50px;
     }
 
     .main-text{
